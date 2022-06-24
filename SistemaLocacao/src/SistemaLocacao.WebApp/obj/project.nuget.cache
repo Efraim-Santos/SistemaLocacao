@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2e348uDPwPPYICdD7IWofETRDFQONtfKloh5DV+x8uPt+i0EWm+awJGNSRUIbi4tCVy1b0RjvpXEhreZYUzu4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.WebApp\\SistemaLocacao.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efrai\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
