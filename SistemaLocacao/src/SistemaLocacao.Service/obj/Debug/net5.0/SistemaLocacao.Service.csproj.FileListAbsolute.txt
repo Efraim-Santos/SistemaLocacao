@@ -1,0 +1,12 @@
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\bin\Debug\net5.0\SistemaLocacao.Service.deps.json
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\bin\Debug\net5.0\SistemaLocacao.Service.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\bin\Debug\net5.0\SistemaLocacao.Service.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.csproj.AssemblyReference.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.AssemblyInfoInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.AssemblyInfo.cs
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.csproj.CoreCompileInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\refint\SistemaLocacao.Service.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\SistemaLocacao.Service.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Service\obj\Debug\net5.0\ref\SistemaLocacao.Service.dll

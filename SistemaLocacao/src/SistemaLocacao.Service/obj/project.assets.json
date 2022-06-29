@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\SistemaLocacao.Service.csproj",
-      "projectName": "SistemaLocacao.Service",
-      "projectPath": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\SistemaLocacao.Service.csproj",
+      "projectUniqueName": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\SistemaLocacao.Services.csproj",
+      "projectName": "SistemaLocacao.Services",
+      "projectPath": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\SistemaLocacao.Services.csproj",
       "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\obj\\",
       "projectStyle": "PackageReference",

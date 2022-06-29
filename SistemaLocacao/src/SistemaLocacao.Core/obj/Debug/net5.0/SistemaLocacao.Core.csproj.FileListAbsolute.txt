@@ -1,0 +1,12 @@
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\bin\Debug\net5.0\SistemaLocacao.Core.deps.json
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\bin\Debug\net5.0\SistemaLocacao.Core.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\bin\Debug\net5.0\SistemaLocacao.Core.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.csproj.AssemblyReference.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.AssemblyInfoInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.AssemblyInfo.cs
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.csproj.CoreCompileInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\refint\SistemaLocacao.Core.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\SistemaLocacao.Core.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Core\obj\Debug\net5.0\ref\SistemaLocacao.Core.dll

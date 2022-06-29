@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SistemaLocacao.API</name>
+    </assembly>
+    <members>
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Post(SistemaLocacao.API.ViewModels.ClienteViewModel)">
+            <summary>
+            Adicionar Cliente
+            </summary>
+            <param name="cliente">Cliente model</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Put(System.Int32,SistemaLocacao.API.ViewModels.ClienteViewModel)">
+            <summary>
+            Atualizar cliente
+            </summary>
+            <param name="id">Id do cliente</param>
+            <param name="cliente">Cliente model</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Delete(System.Int32)">
+            <summary>
+            Remover cliente
+            </summary>
+            <param name="id">Id do cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Get(System.Int32)">
+            <summary>
+            Buscar cliente pelo id
+            </summary>
+            <param name="id">Id do cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Get(System.String,System.String)">
+            <summary>
+            Buscar cliente por nome e cpf
+            </summary>
+            <param name="nome">Nome do cliente</param>
+            <param name="cpf">Cpf do cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Get">
+            <summary>
+            Listar todos os clientes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.FilmeController.Get">
+            <summary>
+            Listar todos os filmes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.LocacaoController.Post(System.Int32,System.Int32,SistemaLocacao.API.ViewModels.DevolverLocacaoViewModel)">
+            <summary>
+            Adicionar locacao
+            </summary>
+            <param name="locacao">locacao model</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.LocacaoController.Put(System.Int32,System.Int32,SistemaLocacao.API.ViewModels.DevolverLocacaoViewModel)">
+            <summary>
+            Atualizar locacao
+            </summary>
+            <param name="idFilme"></param>
+            <param name="locacao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.LocacaoController.Delete(System.Int32)">
+            <summary>
+            Remover locacao
+            </summary>
+            <param name="id">Id do locacao</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.LocacaoController.Get(System.Int32)">
+            <summary>
+            Buscar locacao pelo id
+            </summary>
+            <param name="id">Id da locacao</param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.LocacaoController.Get">
+            <summary>
+            Listar todas as locacaos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.RelatoriosController.DownloadClientesEmAtraso">
+            <summary>
+            Clientes em atraso na devolução
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.RelatoriosController.DownloadFilmesNuncaAlugados">
+            <summary>
+            Filmes que nunca foram alugados.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.RelatoriosController.DownloadFilmesMaisAlugados">
+            <summary>
+            Cinco filmes mais alugados do último ano
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.RelatoriosController.DownloadFilmesMenosAlugados">
+            <summary>
+            Três filmes menos alugados da última semana
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaLocacao.API.Controllers.RelatoriosController.DownloadClienteMaisAlugou">
+            <summary>
+            O segundo cliente que mais alugou filmes
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

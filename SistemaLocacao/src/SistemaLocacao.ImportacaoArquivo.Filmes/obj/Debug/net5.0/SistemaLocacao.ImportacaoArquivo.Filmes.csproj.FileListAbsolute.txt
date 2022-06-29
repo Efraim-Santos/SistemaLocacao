@@ -1,0 +1,17 @@
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.deps.json
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.Core.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.Core.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.csproj.AssemblyReference.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.AssemblyInfoInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.AssemblyInfo.cs
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.csproj.CoreCompileInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.csproj.CopyComplete
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\refint\SistemaLocacao.ImportacaoArquivo.Filmes.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\SistemaLocacao.ImportacaoArquivo.Filmes.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\obj\Debug\net5.0\ref\SistemaLocacao.ImportacaoArquivo.Filmes.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.Domain.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.ImportacaoArquivo.Filmes\bin\Debug\net5.0\SistemaLocacao.Domain.pdb

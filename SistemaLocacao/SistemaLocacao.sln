@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{4ED2BC6C-76A7-4FE5-9544-5895F8796D54}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{4ED2BC6C-76A7-4FE5-9544-5895F8796D54}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{6A745025-C9CE-4032-8699-CDE7D387ACFA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImportacaoArquivo", "ImportacaoArquivo", "{7F55005A-250E-47C7-B83C-CAD5EF9D0881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLocacao.ImportacaoArquivo.Filmes", "src\SistemaLocacao.ImportacaoArquivo.Filmes\SistemaLocacao.ImportacaoArquivo.Filmes.csproj", "{532EC559-8344-4A0A-B59F-AA4111E9C9E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaLocacao.ImportacaoArquivo.Filmes", "src\SistemaLocacao.ImportacaoArquivo.Filmes\SistemaLocacao.ImportacaoArquivo.Filmes.csproj", "{532EC559-8344-4A0A-B59F-AA4111E9C9E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLocacao.Domain", "src\SistemaLocacao.Domain\SistemaLocacao.Domain.csproj", "{144D2A47-3541-4FE4-BC53-75D4CD161971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaLocacao.Domain", "src\SistemaLocacao.Domain\SistemaLocacao.Domain.csproj", "{144D2A47-3541-4FE4-BC53-75D4CD161971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLocacao.Infra", "src\SistemaLocacao.Infra\SistemaLocacao.Infra.csproj", "{43625372-A542-4D0E-82EC-D0E0111BB474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaLocacao.Infra", "src\SistemaLocacao.Infra\SistemaLocacao.Infra.csproj", "{43625372-A542-4D0E-82EC-D0E0111BB474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLocacao.Service", "src\SistemaLocacao.Service\SistemaLocacao.Service.csproj", "{EEC49ED0-62FE-4EA8-84FA-638447F50C69}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9A63EEB9-8F74-4990-A638-E9798596D314}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLocacao.WebApp", "src\SistemaLocacao.WebApp\SistemaLocacao.WebApp.csproj", "{A4E3EA16-AA29-4AA4-B727-E1137C8872EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaLocacao.Core", "src\SistemaLocacao.Core\SistemaLocacao.Core.csproj", "{DD41546D-DFB3-41F2-9830-E3F1AFCF0E4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaLocacao.API", "src\SistemaLocacao.API\SistemaLocacao.API.csproj", "{E5E45357-BBD9-499E-AFFE-FD41F6141180}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +39,14 @@ Global
 		{43625372-A542-4D0E-82EC-D0E0111BB474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43625372-A542-4D0E-82EC-D0E0111BB474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43625372-A542-4D0E-82EC-D0E0111BB474}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EEC49ED0-62FE-4EA8-84FA-638447F50C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EEC49ED0-62FE-4EA8-84FA-638447F50C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EEC49ED0-62FE-4EA8-84FA-638447F50C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EEC49ED0-62FE-4EA8-84FA-638447F50C69}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A4E3EA16-AA29-4AA4-B727-E1137C8872EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4E3EA16-AA29-4AA4-B727-E1137C8872EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4E3EA16-AA29-4AA4-B727-E1137C8872EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4E3EA16-AA29-4AA4-B727-E1137C8872EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD41546D-DFB3-41F2-9830-E3F1AFCF0E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD41546D-DFB3-41F2-9830-E3F1AFCF0E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD41546D-DFB3-41F2-9830-E3F1AFCF0E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD41546D-DFB3-41F2-9830-E3F1AFCF0E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E45357-BBD9-499E-AFFE-FD41F6141180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E45357-BBD9-499E-AFFE-FD41F6141180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E45357-BBD9-499E-AFFE-FD41F6141180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E45357-BBD9-499E-AFFE-FD41F6141180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,8 +55,8 @@ Global
 		{532EC559-8344-4A0A-B59F-AA4111E9C9E7} = {7F55005A-250E-47C7-B83C-CAD5EF9D0881}
 		{144D2A47-3541-4FE4-BC53-75D4CD161971} = {6A745025-C9CE-4032-8699-CDE7D387ACFA}
 		{43625372-A542-4D0E-82EC-D0E0111BB474} = {6A745025-C9CE-4032-8699-CDE7D387ACFA}
-		{EEC49ED0-62FE-4EA8-84FA-638447F50C69} = {6A745025-C9CE-4032-8699-CDE7D387ACFA}
-		{A4E3EA16-AA29-4AA4-B727-E1137C8872EA} = {4ED2BC6C-76A7-4FE5-9544-5895F8796D54}
+		{DD41546D-DFB3-41F2-9830-E3F1AFCF0E4D} = {9A63EEB9-8F74-4990-A638-E9798596D314}
+		{E5E45357-BBD9-499E-AFFE-FD41F6141180} = {4ED2BC6C-76A7-4FE5-9544-5895F8796D54}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4B0665B6-91DD-4427-850D-DD8510EBE299}

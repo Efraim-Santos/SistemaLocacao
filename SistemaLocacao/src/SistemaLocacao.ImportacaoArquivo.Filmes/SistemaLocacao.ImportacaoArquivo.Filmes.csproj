@@ -4,4 +4,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="27.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaLocacao.Core\SistemaLocacao.Core.csproj" />
+    <ProjectReference Include="..\SistemaLocacao.Domain\SistemaLocacao.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

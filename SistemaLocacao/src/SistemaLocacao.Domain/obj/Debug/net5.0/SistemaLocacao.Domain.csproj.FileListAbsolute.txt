@@ -1,0 +1,15 @@
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.csproj.AssemblyReference.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.AssemblyInfoInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.AssemblyInfo.cs
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\bin\Debug\net5.0\SistemaLocacao.Domain.deps.json
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\bin\Debug\net5.0\SistemaLocacao.Domain.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\bin\Debug\net5.0\SistemaLocacao.Domain.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\bin\Debug\net5.0\SistemaLocacao.Core.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\bin\Debug\net5.0\SistemaLocacao.Core.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.csproj.CopyComplete
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\refint\SistemaLocacao.Domain.dll
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\SistemaLocacao.Domain.pdb
+C:\Users\efrai\OneDrive\Área de Trabalho\Projetos 2022\Projeto Sistema de Locação\SistemaLocacao\src\SistemaLocacao.Domain\obj\Debug\net5.0\ref\SistemaLocacao.Domain.dll

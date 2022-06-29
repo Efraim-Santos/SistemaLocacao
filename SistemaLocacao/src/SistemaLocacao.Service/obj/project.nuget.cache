@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FeugVvCzFlZgJnj6DUrldq2GWDDQG+SF2+DsLA//gdZToiU3rOo7+YCGbYrX4ukQU1hqknPB7k95ntBRzSjNeA==",
+  "dgSpecHash": "hh5zlQh7hwhWal8EZzIeLM2vQetTfgVl9DRJa51ntPGzDemQ69Kd+gGQzH1e24nB2uXQrsJgV9FXJ7Zd56JgKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\SistemaLocacao.Service.csproj",
+  "projectFilePath": "C:\\Users\\efrai\\OneDrive\\Área de Trabalho\\Projetos 2022\\Projeto Sistema de Locação\\SistemaLocacao\\src\\SistemaLocacao.Service\\SistemaLocacao.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
