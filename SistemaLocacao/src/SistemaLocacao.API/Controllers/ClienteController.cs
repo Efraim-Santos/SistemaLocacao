@@ -24,7 +24,7 @@ namespace SistemaLocacao.API.Controllers
         /// <param name="cliente">Cliente model</param>
         /// <returns></returns>
         [HttpPost]
-        public async Task<ActionResult<ResponseModel<ClienteViewModel>>> Post(ClienteViewModel cliente)
+        public async Task<ActionResult<ResponseModel<ClienteViewModel>>> Post(ClienteRequestViewModel cliente)
             => ExecutarRequestAsync(await _clienteService.Adicionar(cliente));
 
         /// <summary>
@@ -34,7 +34,7 @@ namespace SistemaLocacao.API.Controllers
         /// <param name="cliente">Cliente model</param>
         /// <returns></returns>
         [HttpPut("{id}")]
-        public async Task<ActionResult<ResponseModel<ClienteViewModel>>> Put(int id, ClienteViewModel cliente)
+        public async Task<ActionResult<ResponseModel<ClienteViewModel>>> Put(int id, ClienteRequestViewModel cliente)
            => ExecutarRequestAsync(await _clienteService.Atualizar(id, cliente));
 
         /// <summary>

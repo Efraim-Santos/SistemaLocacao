@@ -11,7 +11,11 @@ namespace SistemaLocacao.API.Mapping
         {
             CreateMap<ClienteViewModel, AdicionarClienteCommand>();
 
+            CreateMap<ClienteRequestViewModel, AdicionarClienteCommand>();
+
             CreateMap<ClienteViewModel, AtualizarClienteCommand>();
+
+            CreateMap<ClienteRequestViewModel, AtualizarClienteCommand>();
 
             CreateMap<ClienteEntity, ClienteViewModel>();
         }

@@ -9,9 +9,5 @@ namespace SistemaLocacao.API.ViewModels
         public string Cpf { get; set; }
         public DateTime DataNascimento { get; set; }
 
-        public static implicit operator ClienteViewModel(FilmeViewModel v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -4,14 +4,14 @@
         <name>SistemaLocacao.API</name>
     </assembly>
     <members>
-        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Post(SistemaLocacao.API.ViewModels.ClienteViewModel)">
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Post(SistemaLocacao.API.ViewModels.ClienteRequestViewModel)">
             <summary>
             Adicionar Cliente
             </summary>
             <param name="cliente">Cliente model</param>
             <returns></returns>
         </member>
-        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Put(System.Int32,SistemaLocacao.API.ViewModels.ClienteViewModel)">
+        <member name="M:SistemaLocacao.API.Controllers.ClienteController.Put(System.Int32,SistemaLocacao.API.ViewModels.ClienteRequestViewModel)">
             <summary>
             Atualizar cliente
             </summary>

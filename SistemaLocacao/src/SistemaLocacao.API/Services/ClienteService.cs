@@ -29,7 +29,7 @@ namespace SistemaLocacao.API.Services
             _mediator = mediator;
             _clienteQuerie = clienteQuerie;
         }
-        public async Task<ResponseModel<ClienteViewModel>> Adicionar(ClienteViewModel cliente)
+        public async Task<ResponseModel<ClienteViewModel>> Adicionar(ClienteRequestViewModel cliente)
         {
             var clienteCommand = _mapper.Map<AdicionarClienteCommand>(cliente);
 
@@ -42,7 +42,7 @@ namespace SistemaLocacao.API.Services
             };
         }
 
-        public async Task<ResponseModel<ClienteViewModel>> Atualizar(int id, ClienteViewModel cliente)
+        public async Task<ResponseModel<ClienteViewModel>> Atualizar(int id, ClienteRequestViewModel cliente)
         {
             var clienteCommand = _mapper.Map<AtualizarClienteCommand>(cliente);
 
